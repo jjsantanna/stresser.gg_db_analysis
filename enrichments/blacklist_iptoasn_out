@@ -1,0 +1,17 @@
+Bulk mode; whois.cymru.com [2022-12-30 07:46:17 +0000]
+Error: no ASN or IP match on line 3.
+Error: no ASN or IP match on line 4.
+209171  | 2.58.141.248     | 2.58.141.0/24       | TR | ripencc  | 2019-03-21 | 2022-01-17 00:20:53.500000 | ICISLERI, TR
+Error: no ASN or IP match on line 6.
+16276   | 135.125.227.236  | 135.125.128.0/17    | FR | ripencc  | 2000-10-11 | 2022-01-17 00:20:53.500000 | OVH, FR
+NA      | 127.0.0.1        | NA                  |    | other    |            | 2022-01-17 00:20:53.500000 | NA
+NA      | ::1                                      | NA                  |    | other    |            | 2022-01-17 00:20:53.500000 | NA
+Error: no ASN or IP match on line 10.
+Error: no ASN or IP match on line 11.
+207959  | 195.62.32.126    | 195.62.32.0/24      | DE | ripencc  | 2019-11-04 | 2022-01-17 00:20:53.500000 | XSSERVER, DE
+3301    | 78.78.78.78      | 78.64.0.0/12        | SE | ripencc  | 2007-03-09 | 2022-01-17 00:20:53.500000 | TELIANET-SWEDEN Telia Company, SE
+213035  | 194.59.218.10    | 194.59.218.0/24     | NL | ripencc  | 2018-05-22 | 2022-01-17 00:20:53.500000 | AS-SERVERION Serverion B.V., NL
+Error: no ASN or IP match on line 15.
+Error: no ASN or IP match on line 16.
+Error: no ASN or IP match on line 17.
+45899   | 113.164.27.165   | 113.164.27.0/24     | VN | apnic    | 2008-11-04 | 2022-01-17 00:20:53.500000 | VNPT-AS-VN VNPT Corp, VN
